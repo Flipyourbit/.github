@@ -1,14 +1,16 @@
 
 ![FLIPYOURBIT](imgs/transparent_FYB.png "Flipyourbit Docs")
 
+ This is very much a work in progress
 
 <toc>
 
 # Links
 [![Bluesky](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter.svg)](https://bsky.app/profile/flipyourbit.bsky.social) [![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg)](https://www.facebook.com/Flipyourbit) [![Youtube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/youtube.svg)](https://www.youtube.com/@FYBTeam)
 
-
-
+# Guides 
+## [General Guides](../guides.md)
+## [ POP-OS Gaming](../gaming/POP_OS-Deployment.md)
 
 
 # What we do
@@ -39,9 +41,7 @@
 - Geese for datacenter security
 
 
-# Guides 
-## [General Guides](../guides.md)
-## [ POP-OS Gaming](../gaming/POP_OS-Deployment.md)
+
 # The Founders 
 
    ![alt text](imgs/smorc.png)  **Orcsrkinky**
