@@ -32,6 +32,8 @@
 # The tools we use 
 - proxmox 
 - Hyper-V 
+- k8s
+- Argo CD
 - Azure backups 
 - Ansible
 - Docker and Docker Compose 
