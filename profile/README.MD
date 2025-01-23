@@ -37,7 +37,7 @@
 - Azure backups 
 - Ansible
 - Docker and Docker Compose 
-- Ubuntu, Debial, Rocky Linux 
+- Ubuntu, Debian, Rocky Linux 
 - AMP Game Panel 
 - Netbox 
 - Zabbix
