@@ -5,7 +5,7 @@
 
  > This is very much a work in progress
 
-##  Out current project is to refactor most of our infrastructure to IAC 
+##  Supporting Preston Family Friends  IT Operations
 
 
 
