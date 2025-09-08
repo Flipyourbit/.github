@@ -13,6 +13,7 @@
 [![Bluesky](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter.svg)](https://bsky.app/profile/flipyourbit.bsky.social) [![Facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/facebook.svg)](https://www.facebook.com/Flipyourbit) [![Youtube](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/youtube.svg)](https://www.youtube.com/@FYBTeam)
 
 # Guides 
+## [Family Computer Guides](../famguides.md)
 ## [General Guides](../guides.md)
 ## [ POP-OS Gaming](../gaming/POP_OS-Deployment.md)
 
