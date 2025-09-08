@@ -5,7 +5,7 @@
 
  > This is very much a work in progress
 
-##  Supporting Preston Family Friends  IT Operations
+##  Supporting Preston Family and Friends  IT Operations
 
 
 
